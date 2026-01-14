@@ -49,11 +49,10 @@ Each file follows the format:
 
 ---
 
-## To Compile
+## To Compile and To Run
 
 ```bash
 gcc main.c io.c convex_hull.c -o convex_hull -lm
-
-## To Run
+./convex_hull
 ./convex_hull
 
