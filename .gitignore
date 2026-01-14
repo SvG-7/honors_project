@@ -1,0 +1,14 @@
+# Executables
+*.exe
+a
+
+# Output files
+output.png
+hull_output.txt
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
