@@ -54,5 +54,3 @@ Each file follows the format:
 ```bash
 gcc main.c io.c convex_hull.c -o convex_hull -lm
 ./convex_hull
-./convex_hull
-
